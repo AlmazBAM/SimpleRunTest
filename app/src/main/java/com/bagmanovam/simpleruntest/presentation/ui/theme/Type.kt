@@ -1,4 +1,4 @@
-package com.bagmanovam.simpleruntest.ui.theme
+package com.bagmanovam.simpleruntest.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
